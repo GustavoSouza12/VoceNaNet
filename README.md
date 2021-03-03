@@ -5,10 +5,10 @@
 * [🚀 Technologies 🚀](#technologies)
 * [👋 Say hello 👋](#sayHello)
 
-![](https://img.shields.io/github/languages/count/GustavoSouza12/WorkTools)
-![](https://img.shields.io/github/languages/top/GustavoSouza12/WorkTools)
-![](https://img.shields.io/github/last-commit/GustavoSouza12/WorkTools)
-![](https://img.shields.io/github/repo-size/GustavoSouza12/WorkTools)
+![](https://img.shields.io/github/languages/count/GustavoSouza12/VoceNaNet)
+![](https://img.shields.io/github/languages/top/GustavoSouza12/VoceNaNet)
+![](https://img.shields.io/github/last-commit/GustavoSouza12VoceNaNet)
+![](https://img.shields.io/github/repo-size/GustavoSouza12/VoceNaNet)
 
 <h2 id="about"> About :dart: </h2>
 <p>
